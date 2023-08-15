@@ -39,3 +39,12 @@
 |-------------------------------------------------------------------------|
 '---._.-------------------------------------------------------------._.---'
 
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="Kafka" height="25" src="https://github.com/DoddiC/blob/main/images/kafka.svg"></code>
+ </code>
+</p>
+<hr>
+
