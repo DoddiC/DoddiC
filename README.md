@@ -2,13 +2,20 @@
   <br>
   <br>
   <br>
-  ```
+  <samp>Hello there. I'm Chidvi</a>.<br> Welcome to my place for innovative experimentation and wizardry. <br><br></samp>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+
+```
              ________________________________________________
             /                                                \
            |    _________________________________________     |
            |   |                                         |    |
            |   |  ~ $ bash ./intro.sh.                   |    |
-           |   |  Hello, my name is Milovan              |    |
+           |   |  Hello, my name is Chidvi               |    |
            |   |  ½ Software Engineer                    |    |
            |   |  ¼ Open Source enthusiast               |    |
            |   |  ¼ Manager                              |    |
@@ -18,7 +25,7 @@
            |   |  a new product or service that          |    |
            |   |  consumers will want.                   |    |
            |   |                                         |    |
-           |   |  MT                                     |    |
+           |   |  CD                                     |    |
            |   |_________________________________________|    |
            |                                                  |
             \_________________________________________________/
@@ -32,9 +39,3 @@
 |-------------------------------------------------------------------------|
 '---._.-------------------------------------------------------------._.---'
 ```
-  <samp>Hello there. I'm Chidvi</a>.<br> Welcome to my place for innovative experimentation and wizardry. <br><br></samp>
-  <br>
-  <br>
-  <br>
-  <br>
-</p>
