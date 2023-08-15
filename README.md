@@ -16,17 +16,15 @@
            |    _________________________________________     |
            |   |                                         |    |
            |   |  ~ $ bash ./intro.sh.                   |    |
-           |   |  Hello, my name is Milovan              |    |
-           |   |  ½ Software Engineer                    |    |
+           |   |  Hello, my name is Chidvi               |    |
+           |   |  ½ Apache Kafka Admin.                  |    |
            |   |  ¼ Open Source enthusiast               |    |
-           |   |  ¼ Manager                              |    |
-           |   |  In addition to scientific research,    |    |
-           |   |  I also develop business software and   |    |
-           |   |  websites with the aim of creating      |    |
-           |   |  a new product or service that          |    |
-           |   |  consumers will want.                   |    |
+           |   |  I am now hoping to bring my holistic   |    |
+           |   |  expertise to a company where I can lay |    |
+           |   |  roots and deliver best-in-class        |    |
+           |   |  capabilities.                          |    |
            |   |                                         |    |
-           |   |  MT                                     |    |
+           |   |  CD                                     |    |
            |   |_________________________________________|    |
            |                                                  |
             \_________________________________________________/
@@ -40,13 +38,4 @@
 |-------------------------------------------------------------------------|
 '---._.-------------------------------------------------------------._.---'
 ```
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="HTML5" height="25" src="https://github.com/DoddiC/main/images/html5.svg"></code>
- </code>
-</p>
-<hr>
 
