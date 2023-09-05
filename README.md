@@ -39,7 +39,7 @@
 ```
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Kafka+Administrator.;Nice+to+e-meet+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Kafka+Administrator.;I+hope+you+enjoy+your+visit.)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chidvi-doddi/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chidvidoddi@gmail.com)
