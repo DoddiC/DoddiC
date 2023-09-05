@@ -40,10 +40,6 @@
 ```
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chidvi Doddi</h1>
-<h3 align="center">Apache Kafka Administrator</h3>
-<p align="center">
-<img width="100%" alt="GIF" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" />
-</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Kafka+Administrator.;Nice+to+e-meet+you.)](https://git.io/typing-svg)
 
