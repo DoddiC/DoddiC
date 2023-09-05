@@ -41,20 +41,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Kafka+Administrator.;I+hope+you+enjoy+your+visit.)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chidvi-doddi/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chidvidoddi@gmail.com)
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=DoddiC" alt="DoddiC"/></p>
-
-<h3 style=>
-Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
-</h3>
-
-- 🔭 I’m currently working on **Kafka**.
-- 🌱 I’m currently learning **Kafka** and **AWS**.
-- 🤝 I’m looking for help with **Kafka**.
-- 😄 Pronouns: He/Him 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chidvi-doddi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chidvi-doddi/" height="30" width="40" /></a>
