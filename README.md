@@ -40,8 +40,6 @@
 ```
 <hr>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chidvi Doddi</h1>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Kafka+Administrator.;Nice+to+e-meet+you.)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chidvi-doddi/)
