@@ -52,5 +52,3 @@
 ## Some Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoddiC&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-![Chidvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoddiC&show_icons=true&theme=prussian)
-
