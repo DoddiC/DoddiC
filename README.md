@@ -37,7 +37,7 @@
 ### Follow/Contact Me:
 |  <a href="https://github.com/DoddiC/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|&nbsp; &nbsp; <a href="https://www.linkedin.com/in/chidvi-doddi/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/DoddiC"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/Jeevananthan23"><img src="<a target="_blank" href="https://icons8.com/icon/6QtoKjRma1Cq/gmail">Icons8</a>" width="32px" height="32px"></a> &nbsp; &nbsp; |
+|&nbsp; &nbsp; <a href="https://www.linkedin.com/in/chidvi-doddi/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/DoddiC"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="mailto:chidvidoddi@gmail.com"><img src="<a target="_blank" href="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png">Icons8</a>" width="32px" height="32px"></a> &nbsp; &nbsp; |
 
 ```
              ________________________________________________
