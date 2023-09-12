@@ -38,32 +38,3 @@
 |  <a href="https://github.com/DoddiC/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |&nbsp; &nbsp; <a href="https://www.linkedin.com/in/chidvi-doddi/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/DoddiC"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://doddic.github.io/me/"><img src="https://github.com/DoddiC/me/blob/main/assets/img/31712173.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
-
-
-             ________________________________________________
-            /                                                \
-           |    _________________________________________     |
-           |   |                                         |    |
-           |   |  ~ $ bash ./intro.sh.                   |    |
-           |   |  Hello, my name is Chidvi               |    |
-           |   |  ½ Apache Kafka Admin.                  |    |
-           |   |  ¼ Open Source enthusiast               |    |
-           |   |  I am now hoping to bring my holistic   |    |
-           |   |  expertise to a company where I can lay |    |
-           |   |  roots and deliver best-in-class        |    |
-           |   |  capabilities.                          |    |
-           |   |                                         |    |
-           |   |  CD                                     |    |
-           |   |_________________________________________|    |
-           |                                                  |
-            \_________________________________________________/
-                   \___________________________________/
-                ___________________________________________
-             _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
-          _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
-       _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
-    _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.'-_
- _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.'-_
-|-------------------------------------------------------------------------|
-'---._.-------------------------------------------------------------._.---'
-
