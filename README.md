@@ -9,18 +9,7 @@
 </p>
 <hr>
 
-### Follow/Contact Me:
-|  <a href="https://github.com/DoddiC/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|&nbsp; &nbsp; <a href="https://www.linkedin.com/in/chidvi-doddi/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/Jeevananthan-23/"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/Jeevananthan23"><img src="https://iconscout.com/free-logo/gmail-2923657" width="32px" height="32px"></a> &nbsp; &nbsp; |
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Kafka+Administrator.;I+hope+you+enjoy+your+visit.)](https://git.io/typing-svg)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chidvi-doddi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chidvi-doddi/" height="30" width="40" /></a>
-</p>
-
+### Experience
 ## Languages and Tools: 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -43,6 +32,18 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=Apache%20Kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white)
+
+### Follow/Contact Me:
+|  <a href="https://github.com/DoddiC/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|&nbsp; &nbsp; <a href="https://www.linkedin.com/in/chidvi-doddi/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/Jeevananthan-23/"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/Jeevananthan23"><img src="https://iconscout.com/free-logo/gmail-2923657" width="32px" height="32px"></a> &nbsp; &nbsp; |
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Kafka+Administrator.;I+hope+you+enjoy+your+visit.)](https://git.io/typing-svg)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/chidvi-doddi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chidvi-doddi/" height="30" width="40" /></a>
+</p>
 
 ```
              ________________________________________________
