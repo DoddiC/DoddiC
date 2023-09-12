@@ -9,6 +9,11 @@
 </p>
 <hr>
 
+### Contact Me
+|  <a href="https://github.com/DoddiC/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|&nbsp; &nbsp; <a href="https://www.linkedin.com/in/chidvi-doddi/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/Jeevananthan-23/"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/Jeevananthan23"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
+
 ```
              ________________________________________________
             /                                                \
@@ -43,7 +48,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bhavya-bhalla-050800220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavya-bhalla-050800220/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chidvi-doddi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chidvi-doddi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>       
