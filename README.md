@@ -39,7 +39,7 @@
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |&nbsp; &nbsp; <a href="https://www.linkedin.com/in/chidvi-doddi/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/DoddiC"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://doddic.github.io/me/"><img src="https://github.com/DoddiC/me/blob/main/assets/img/31712173.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
 
-```
+
              ________________________________________________
             /                                                \
            |    _________________________________________     |
@@ -66,4 +66,4 @@
  _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.'-_
 |-------------------------------------------------------------------------|
 '---._.-------------------------------------------------------------._.---'
-```
+
