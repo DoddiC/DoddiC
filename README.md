@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm [Chidvi Doddi](https://www.linkedin.com/in/chidvi-doddi/)</a>.<br> Welcome to my place for innovative experimentation and wizardry. <br><br></samp>
+  <samp>Hello there. I'm Chidvi</a>.<br> Welcome to my place for innovative experimentation and wizardry. <br><br></samp>
   <br>
   <br>
   <br>
