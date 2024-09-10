@@ -9,7 +9,7 @@
 </p>
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Kafka+Administrator.;I+hope+you+enjoy+your+visit.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+hope+you+enjoy+your+visit.)](https://git.io/typing-svg)
 
 ## Tech Stack: 
 
